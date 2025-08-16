@@ -1,0 +1,869 @@
+[
+  {
+    "test": "B1",
+    "category": "Fundamental Issues",
+    "question": "What is a slowdown lane?",
+    "options": [
+      "part of the roadway intended for the exclusion of vehicles from the traffic flow on the road",
+      "a part of the roadway intended exclusively for the traffic flow of slow vehicles"
+    ],
+    "answer": "part of the roadway intended for the exclusion of vehicles from the traffic flow on the road"
+  },
+  {
+    "test": "B1",
+    "category": "Fundamental Issues",
+    "question": "What is a bike lane?",
+    "options": [
+      "a part of the pavement intended for bicycle traffic that extends along the pavement and which is marked by a longitudinal line on the pavement and the prescribed traffic sign",
+      "a constructed traffic area intended for bicycle traffic that is separated from the road and marked with the prescribed traffic sign"
+    ],
+    "answer": "a part of the pavement intended for bicycle traffic that extends along the pavement and which is marked by a longitudinal line on the pavement and the prescribed traffic sign"
+  },
+  {
+    "test": "B1",
+    "category": "Fundamental Issues",
+    "question": "What is transparency?",
+    "options": [
+      "the specific space that the road user can see from the place where he is",
+      "clear observation of other road users or traffic signs at a certain distance"
+    ],
+    "answer": "clear observation of other road users or traffic signs at a certain distance"
+  },
+  {
+    "test": "B1",
+    "category": "Fundamental Issues",
+    "question": "At what maximum speed on a road intended exclusively for motor vehicle traffic can a young driver with a category B driving license drive?",
+    "options": [
+      "at a speed of up to 100 km per hour",
+      "at a speed of up to 90 km per hour",
+      "at speeds up to 110 km per hour"
+    ],
+    "answer": "at a speed of up to 90 km per hour"
+  },
+  {
+    "test": "B1",
+    "category": "Fundamental Issues",
+    "question": "How will you act in the situation as in the picture?",
+    "options": [
+      "go smoothly because the green light has just come on",
+      "start carefully and be ready to stop because the truck will stop due to pedestrians",
+      "pass the cyclist straight and only then turn right"
+    ],
+    "answer": "start carefully and be ready to stop because the truck will stop due to pedestrians"
+  },
+  {
+    "test": "B1",
+    "category": "Fundamental Issues",
+    "question": "How you will act in the situation as in the picture",
+    "options": [
+      "I will overtake the cyclist",
+      "I will ride behind the bike until both lines become intermittent"
+    ],
+    "answer": "I will overtake the cyclist"
+  },
+  {
+    "test": "B1",
+    "category": "Fundamental Issues",
+    "question": "Who is the driver?",
+    "options": [
+      "a person driving a vehicle on the road",
+      "a person qualified as a driver in a driving school"
+    ],
+    "answer": "a person driving a vehicle on the road"
+  },
+  {
+    "test": "B1",
+    "category": "Fundamental Issues",
+    "question": "When are you required to use dipped headlights instead of high beams?",
+    "options": [
+      "always while driving on the road outside the settlement",
+      "while driving behind another vehicle if the lights of my vehicle dazzle the driver of the vehicle in front of me",
+      "before passing another vehicle at the required distance"
+    ],
+    "answer": "while driving behind another vehicle if the lights of my vehicle dazzle the driver of the vehicle in front of me"
+  },
+  {
+    "test": "B1",
+    "category": "Fundamental Issues",
+    "question": "How do children most often react in traffic?",
+    "options": [
+      "in accordance with regulations",
+      "spontaneous and unpredictable",
+      "prudent and calm"
+    ],
+    "answer": "spontaneous and unpredictable"
+  },
+  {
+    "test": "B1",
+    "category": "Fundamental Issues",
+    "question": " What does the green flashing light on the traffic light mean?",
+    "options": [
+      "mandatory stopping",
+      "imminent cessation of free passage",
+      "the imminent appearance of yellow or red light"
+    ],
+    "answer": "the imminent appearance of yellow or red light"
+  },
+  {
+    "test": "B1",
+    "category": "Fundamental Issues",
+    "question": " What must be the minimum width of the free passage on the part of the road from the stopped or parked vehicle and the opposite edge of the pavement?",
+    "options": [],
+    "answer": "4 m"
+  },
+  {
+    "test": "B1",
+    "category": "Fundamental Issues",
+    "question": " In traffic, according to which participants must the driver not rely on the principle of trust without caution?",
+    "options": [
+      "towards children",
+      "towards participants of the opposite sex",
+      "towards persons who are visibly under the influence of alcohol"
+    ],
+    "answer": "towards children"
+  },
+  {
+    "test": "B1",
+    "category": "Fundamental Issues",
+    "question": " What are the first signs of driver fatigue?",
+    "options": [
+      "trembling legs",
+      "closing your eyes",
+      "yawning"
+    ],
+    "answer": "yawning"
+  },
+  {
+    "test": "B1",
+    "category": "Fundamental Issues",
+    "question": " What is the purpose of the device in the picture?",
+    "options": [
+      "to determine the amount of alcohol in the blood",
+      "to determine the amount of alcohol in the exhaled air",
+      "to determine the presence of drugs in the body"
+    ],
+    "answer": "to determine the amount of alcohol in the exhaled air"
+  },
+  {
+    "test": "B1",
+    "category": "Signs",
+    "question": " What does this traffic sign mean?",
+    "options": [
+      "completion of the expressway",
+      "completion of the motorway",
+      "completion of the state road"
+    ],
+    "answer": "completion of the expressway"
+  },
+  {
+    "test": "B1",
+    "category": "Signs",
+    "question": " What danger does the traffic sign in the picture warn of?",
+    "options": [
+      "to a dangerous place where wild animals often cross the road at a distance of 600 meters after the traffic sign",
+      "to a dangerous place where wild animals often cross the road 600 meters from the traffic sign",
+      "to a dangerous place where domestic animals often cross the road 600 meters from the traffic sign"
+    ],
+    "answer": "to a dangerous place where wild animals often cross the road 600 meters from the traffic sign"
+  },
+  {
+    "test": "B1",
+    "category": "Signs",
+    "question": " What should you watch out for when you come across this traffic sign?",
+    "options": [
+      "on possible vehicles in a bend",
+      "to adjust the driving speed",
+      "to the narrowing of the road on the left"
+    ],
+    "answer": "to adjust the driving speed"
+  },
+  {
+    "test": "B1",
+    "category": "Signs",
+    "question": " Which traffic sign gives preference to passing vehicles from the opposite direction?",
+    "options": [],
+    "answer": "a sign with a red arrow pointing up and a black arrow pointing down"
+  },
+  {
+    "test": "B1",
+    "category": "Signs",
+    "question": " Which traffic areas in the situation as in the picture are marked in yellow?",
+    "options": [
+      "bicycle lane",
+      "bus stop",
+      "bicycle path"
+    ],
+    "answer": "bus stop"
+  },
+  {
+    "test": "B1",
+    "category": "Signs",
+    "question": " What does this additional sign traffic sign indicate?",
+    "options": [
+      "to the position of the road with the right of way",
+      "to a mandatory stop",
+      "on the obligatory direction of travel"
+    ],
+    "answer": "to the position of the road with the right of way"
+  },
+  {
+    "test": "B1",
+    "category": "Crossroads",
+    "question": " You are approaching this intersection. How will you proceed?",
+    "options": [
+      "miss the yellow tram",
+      "miss both vehicles",
+      "drive first"
+    ],
+    "answer": "drive first"
+  },
+  {
+    "test": "B1",
+    "category": "Crossroads",
+    "question": " How will you act in this situation?",
+    "options": [
+      "miss a vehicle from the opposite direction",
+      "drive first through the intersection"
+    ],
+    "answer": "drive first through the intersection"
+  },
+  {
+    "test": "B1",
+    "category": "Crossroads",
+    "question": " How will you act in this situation?",
+    "options": [
+      "drive first because I drive straight",
+      "miss a motorcycle",
+      "miss the bike on the right"
+    ],
+    "answer": "miss a motorcycle"
+  },
+  {
+    "test": "B1",
+    "category": "Crossroads",
+    "question": " How will you act in this situation?",
+    "options": [
+      "miss cyclists",
+      "cyclists have to stop and miss me",
+      "estimate the distance of the cyclist in the right side mirror",
+      "be sure to turn your head and check the right blind spot"
+    ],
+    "answer": "miss cyclists"
+  },
+  {
+    "test": "B1",
+    "category": "Special Features and Hazards",
+    "question": " What is the maximum permitted speed of a vehicle towing another defective vehicle?",
+    "options": [
+      "40 km per hour",
+      "50 km per hour",
+      "60 km per hour"
+    ],
+    "answer": "40 km per hour"
+  },
+  {
+    "test": "B1",
+    "category": "Special Features and Hazards",
+    "question": " What distracts the driver while driving?",
+    "options": [
+      "cell phone conversation",
+      "air conditioning in the vehicle",
+      "reading and writing messages on mobile phones"
+    ],
+    "answer": "reading and writing messages on mobile phones"
+  },
+  {
+    "test": "B1",
+    "category": "Special Features and Hazards",
+    "question": " Drive in the left lane in the situation as in the picture. How will you proceed?",
+    "options": [
+      "cross the vehicle in the right lane before the pedestrian crossing",
+      "accelerate and pass before a pedestrian who encounters a pedestrian crossing",
+      "stop and allow a pedestrian to cross the pedestrian crossing"
+    ],
+    "answer": "stop and allow a pedestrian to cross the pedestrian crossing"
+  },
+  {
+    "test": "B1",
+    "category": "Special Features and Hazards",
+    "question": " What road features affect driving safety?",
+    "options": [
+      "greater pavement width",
+      "the width of the central longitudinal line",
+      "greater width of the traffic lane"
+    ],
+    "answer": "the width of the central longitudinal line"
+  },
+  {
+    "test": "B1",
+    "category": "Special Features and Hazards",
+    "question": " If your vehicle's dashboard lights up and flashing as shown in the picture, what does that mean?",
+    "options": [
+      "the rear fog light is on",
+      "that the engine oil pressure lamp indicates a fault",
+      "that all direction indicators on the vehicle are on"
+    ],
+    "answer": "that all direction indicators on the vehicle are on"
+  },
+  {
+    "test": "B1",
+    "category": "Special Features and Hazards",
+    "question": " What dangers do you recognize in the situation in the picture?",
+    "options": [
+      "a sharp turn on the road directed to the right",
+      "slippery pavement",
+      "possible vehicle drift"
+    ],
+    "answer": "slippery pavement"
+  },
+  {
+    "test": "B1",
+    "category": "Special Features and Hazards",
+    "question": " What is the average length of driver response time under normal driving conditions?",
+    "options": [
+      "one second",
+      "three seconds"
+    ],
+    "answer": "one second"
+  },
+  {
+    "test": "B1",
+    "category": "Special Features and Hazards",
+    "question": " How many meters of road must a light beam of fog lights illuminate?",
+    "options": [
+      "a maximum of 35 meters of road",
+      "a maximum of 55 meters of road",
+      "maximum 100 meters of road"
+    ],
+    "answer": "a maximum of 100 meters of road"
+  },
+  {
+    "test": "B1",
+    "category": "Special Features and Hazards",
+    "question": " What are the consequences of lower tire pressure than prescribed?",
+    "options": [
+      "reduction of fuel consumption",
+      "lengthening of braking distance and poor grip",
+      "faster wear and warming of tires"
+    ],
+    "answer": "faster wear and warming of tires"
+  },
+  {
+    "test": "B1",
+    "category": "Special Features and Hazards",
+    "question": " What characterizes driving outside the settlement?",
+    "options": [
+      "riding in columns and numerous overtaking",
+      "numerous and different intersections",
+      "higher driving speeds"
+    ],
+    "answer": "higher driving speeds"
+  },
+  {
+    "test": "B1",
+    "category": "Special Features and Hazards",
+    "question": " What does the light on the instrument panel with the symbol in the picture indicate?",
+    "options": [
+      "use of seat belt",
+      "all direction indicators are on",
+      "charging the battery"
+    ],
+    "answer": "use of seat belt"
+  },
+  {
+    "test": "B1",
+    "category": "Special Features and Hazards",
+    "question": " What does the 145/80 mark on the tire indicate?",
+    "options": [
+      "tire width and height",
+      "width and outer diameter of the tire",
+      "rim diameter and tire height"
+    ],
+    "answer": "tire width and height"
+  },
+  {
+    "test": "B1",
+    "category": "Special Features and Hazards",
+    "question": " What is a car accident?",
+    "options": [
+      "a road event involving at least one moving vehicle",
+      "an event on the road in which at least one person was injured or killed",
+      "an event on an unclassified road in which a work vehicle landed off the road",
+      "an event on the road in which material damage was caused"
+    ],
+    "answer": "an event on the road in which at least one person was injured or killed"
+  },
+  {
+    "test": "B1",
+    "category": "Special Features and Hazards",
+    "question": " What does the length of the response path depend on?",
+    "options": [
+      "on driving speed",
+      "on the condition and type of pavement"
+    ],
+    "answer": "on driving speed"
+  },
+  {
+    "test": "B2",
+    "category": "Fundamental Issues",
+    "question": "What is a road?",
+    "options": [
+      "any public road, street in the settlement and unclassified road on which traffic is performed",
+      "any public area on which motor vehicle traffic is performed"
+    ],
+    "answer": "any public road, street in the settlement and unclassified road on which traffic is performed"
+  },
+  {
+    "test": "B2",
+    "category": "Fundamental Issues",
+    "question": "What is traffic endangerment?",
+    "options": [
+      "such a manner of participation in traffic due to which there was an immediate danger of a traffic accident",
+      "an action in traffic by which someone, contrary to traffic regulations, is forced to change the previous way of participating in traffic without the occurrence of an imminent danger of a traffic accident"
+    ],
+    "answer": "such a manner of participation in traffic due to which there was an immediate danger of a traffic accident"
+  },
+  {
+    "test": "B2",
+    "category": "Fundamental Issues",
+    "question": "Who is a participant in road traffic?",
+    "options": [
+      "a person who participates in road traffic in any way",
+      "a person who in no way participates in road traffic"
+    ],
+    "answer": "a person who participates in road traffic in any way"
+  },
+  {
+    "test": "B2",
+    "category": "Fundamental Issues",
+    "question": "What does the flashing green control indicator light on the instrument panel mean?",
+    "options": [
+      "that the turn signal is on",
+      "that the direction indicators are correct if the lamp flashes at a normal rhythm",
+      "dipped beam on"
+    ],
+    "answer": "that the turn signal is on"
+  },
+  {
+    "test": "B2",
+    "category": "Fundamental Issues",
+    "question": "What is a pavement?",
+    "options": [
+      "longitudinal part of the roadway intended for one-way traffic, with one or more traffic lanes",
+      "marked or unmarked part of the roadway whose width is sufficient for unobstructed traffic of one row of vehicles in one direction"
+    ],
+    "answer": "marked or unmarked part of the roadway whose width is sufficient for unobstructed traffic of one row of vehicles in one direction"
+  },
+  {
+    "test": "B2",
+    "category": "Fundamental Issues",
+    "question": "What is the maximum permissible mass of the vehicle?",
+    "options": [
+      "the mass of the vehicle together with its carrying capacity",
+      "mass of the vehicle with cargo in or on the vehicle"
+    ],
+    "answer": "the mass of the vehicle together with its carrying capacity"
+  },
+  {
+    "test": "B2",
+    "category": "Fundamental Issues",
+    "question": "What is a bike path?",
+    "options": [
+      "a constructed traffic area intended for bicycle traffic that is separated from the road and marked with the prescribed traffic sign",
+      "a part of the pavement intended for bicycle traffic that extends along the pavement and which is marked by a longitudinal line on the pavement and the prescribed traffic sign"
+    ],
+    "answer": "a constructed traffic area intended for bicycle traffic that is separated from the road and marked with the prescribed traffic sign"
+  },
+  {
+    "test": "B2",
+    "category": "Fundamental Issues",
+    "question": "If you are towing a faulty vehicle, may persons be transported in it?",
+    "options": [
+      "they must not",
+      "may"
+    ],
+    "answer": "they must not"
+  },
+  {
+    "test": "B2",
+    "category": "Fundamental Issues",
+    "question": "What is a traffic jam?",
+    "options": [
+      "action in traffic by which someone is forced to change the previous way of participating in traffic contrary to traffic regulations",
+      "such manner of participation in traffic as a result of which there was an immediate danger of a traffic accident"
+    ],
+    "answer": "such a manner of participation in traffic as a result of which there was an immediate danger of a traffic accident"
+  },
+  {
+    "test": "B2",
+    "category": "Fundamental Issues",
+    "question": " How do you have to drive at an intersection?",
+    "options": [
+      "I have to cross the intersection in the lane I was in",
+      "they can change the traffic lane at the intersection if necessary"
+    ],
+    "answer": "I have to cross the intersection in the lane I was in"
+  },
+  {
+    "test": "B2",
+    "category": "Fundamental Issues",
+    "question": " Does the driver of a passenger car overtake a truck, in the situation as in the picture, properly?",
+    "options": [
+      "yes, because it is allowed by the markings on the pavement",
+      "no, because it is not allowed on the pavement markings"
+    ],
+    "answer": "yes, because it is allowed by the markings on the pavement"
+  },
+  {
+    "test": "B2",
+    "category": "Fundamental Issues",
+    "question": " Which categories of vehicles is entitled to be driven by a driver who has been issued a driving license for category B vehicles?",
+    "options": [
+      "motor vehicles belonging to AM, F and G category",
+      "motor vehicles belonging to BE and H category",
+      "only motor vehicles belonging to category B."
+    ],
+    "answer": "motor vehicles belonging to AM, F and G category"
+  },
+  {
+    "test": "B2",
+    "category": "Fundamental Issues",
+    "question": " How will you determine the speed of driving on roads outside the settlement?",
+    "options": [
+      "according to the type of road I drive",
+      "according to the travel time for which I want to reach the destination",
+      "according to the current driving conditions on the road"
+    ],
+    "answer": "according to the current driving conditions on the road"
+  },
+  {
+    "test": "B2",
+    "category": "Fundamental Issues",
+    "question": " Drive the car in the right lane in the situation as in the picture. How will you proceed?",
+    "options": [
+      "keep driving straight",
+      "change lanes in the middle or left lane"
+    ],
+    "answer": "change lanes in the middle or left lane"
+  },
+  {
+    "test": "B2",
+    "category": "Signs",
+    "question": " Which of the traffic signs announces the approach to the intersection where traffic is controlled by traffic lights?",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "1"
+  },
+  {
+    "test": "B2",
+    "category": "Signs",
+    "question": " What is marked on the road with a sign as in the picture?",
+    "options": [
+      "an obstacle on the road",
+      "lateral interference on the road",
+      "a bend in the road"
+    ],
+    "answer": "a bend in the road"
+  },
+  {
+    "test": "B2",
+    "category": "Signs",
+    "question": " Which motor vehicles may you overtake after this traffic sign?",
+    "options": [
+      "motorcycles without a trailer",
+      "mopeds",
+      "tractors"
+    ],
+    "answer": "mopeds"
+  },
+  {
+    "test": "B2",
+    "category": "Signs",
+    "question": " Which traffic sign indicates a traffic ban for all motor vehicles?",
+    "options": [
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "test": "B2",
+    "category": "Signs",
+    "question": " Which vehicles are allowed to use the road marked with this traffic sign?",
+    "options": [
+      "passenger cars",
+      "motorcycles",
+      "tractors"
+    ],
+    "answer": "passenger cars"
+  },
+  {
+    "test": "B2",
+    "category": "Signs",
+    "question": " What does this traffic sign indicate to you?",
+    "options": [
+      "to prohibit one-way traffic",
+      "to prohibit traffic in both directions",
+      "that traffic flows only from the opposite direction"
+    ],
+    "answer": "to prohibit one-way traffic"
+  },
+  {
+    "test": "B2",
+    "category": "Crossroads",
+    "question": " Why do you have to miss a blue car in a situation like the one in the picture?",
+    "options": [
+      "because it is located on the right side",
+      "because it moves on the road with the advantage of passing",
+      "because you are on a side road"
+    ],
+    "answer": "because it moves on the road with the advantage of passing"
+  },
+  {
+    "test": "B2",
+    "category": "Crossroads",
+    "question": " You are approaching an intersection with a vehicle in the situation as in the picture. How will you proceed?",
+    "options": [
+      "miss only vehicles coming from the right",
+      "miss all vehicles moving on that road"
+    ],
+    "answer": "miss only vehicles coming from the right"
+  },
+  {
+    "test": "B2",
+    "category": "Crossroads",
+    "question": " Why do you have to miss a motorcyclist in a situation like the one in the picture?",
+    "options": [
+      "because it is located on the right side, and it moves on the road with the advantage of passing",
+      "because it is located on the right side and is moving on a side road"
+    ],
+    "answer": "because it is located on the right side, and it moves on the road with the advantage of passing"
+  },
+  {
+    "test": "B2",
+    "category": "Crossroads",
+    "question": " How will you act in the situation as in the picture?",
+    "options": [
+      "miss a motorcycle",
+      "ride before the motorcycle"
+    ],
+    "answer": "ride before the motorcycle"
+  },
+  {
+    "test": "B2",
+    "category": "Special Features and Hazards",
+    "question": " What must be the tire pressure?",
+    "options": [
+      "according to the prescribed instructions of the vehicle manufacturer",
+      "according to the prescribed vehicle speed markings",
+      "according to the prescribed markings for the carrying capacity of the vehicle"
+    ],
+    "answer": "according to the prescribed instructions of the vehicle manufacturer"
+  },
+  {
+    "test": "B2",
+    "category": "Special Features and Hazards",
+    "question": " Drive in the left lane in the situation as shown. What is the traffic area to the left of the lane you are driving?",
+    "options": [
+      "bicycle path",
+      "bicycle lane",
+      "hiking trail"
+    ],
+    "answer": "bicycle path"
+  },
+  {
+    "test": "B2",
+    "category": "Special Features and Hazards",
+    "question": " A police officer raised his hand on the road as in the picture. How will you proceed?",
+    "options": [
+      "stop immediately",
+      "continue driving"
+    ],
+    "answer": "stop immediately"
+  },
+  {
+    "test": "B2",
+    "category": "Special Features and Hazards",
+    "question": " When the red control indicator illuminates for driving on the instrument panel, as in the picture, what will you do?",
+    "options": [
+      "disconnect the vehicle from traffic",
+      "check the oil level in the engine",
+      "switch off the engine"
+    ],
+    "answer": "switch off the engine"
+  },
+  {
+    "test": "B2",
+    "category": "Special Features and Hazards",
+    "question": " What are the driving requirements in the city?",
+    "options": [
+      "constant attention and anticipation of danger",
+      "timely observation and response",
+      "driving without respect and tolerance"
+    ],
+    "answer": "constant attention and anticipation of danger"
+  },
+  {
+    "test": "B2",
+    "category": "Special Features and Hazards",
+    "question": " At the intersection, you intend to turn left. How will you get by with a vehicle that also turns left from the opposite direction?",
+    "options": [
+      "miss the vehicle on my right",
+      "miss the vehicle on my left"
+    ],
+    "answer": "miss the vehicle on my right"
+  },
+  {
+    "test": "B2",
+    "category": "Special Features and Hazards",
+    "question": " On the road you are driving, work is being carried out in the situation as in the picture. How will you proceed?",
+    "options": [
+      "continue driving in the traffic lane for vehicles from the opposite direction",
+      "stop because the traffic lane I am driving on is busy"
+    ],
+    "answer": "stop because the traffic lane I am driving on is busy"
+  },
+  {
+    "test": "B2",
+    "category": "Special Features and Hazards",
+    "question": " According to the position of the vehicle in the middle lane, what can the driver of the vehicle do in the situation as in the picture?",
+    "options": [
+      "turn right",
+      "go straight through the crossroads",
+      "turn left"
+    ],
+    "answer": "go straight through the crossroads"
+  },
+  {
+    "test": "B2",
+    "category": "Special Features and Hazards",
+    "question": " Are you allowed to overtake a vehicle approaching a marked pedestrian crossing?",
+    "options": [
+      "I must not, because it is not allowed",
+      "I may, if there are no pedestrians at the marked pedestrian crossing"
+    ],
+    "answer": "I must not, because it is not allowed"
+  },
+  {
+    "test": "B2",
+    "category": "Special Features and Hazards",
+    "question": " Where are the prescribed values of air pressure in vehicle tires most often recorded?",
+    "options": [
+      "in the space for markings on vehicle tires",
+      "on the fuel filler flap",
+      "in the traffic license"
+    ],
+    "answer": "on the fuel filler flap"
+  },
+  {
+    "test": "B2",
+    "category": "Special Features and Hazards",
+    "question": " Drive in the middle lane in the situation as shown. How will you proceed?",
+    "options": [
+      "drive straight without changing lanes",
+      "stop and pass pedestrians intending to cross the roadway",
+      "change lanes in the right lane and continue driving straight ahead"
+    ],
+    "answer": "drive straight without changing lanes"
+  },
+  {
+    "test": "B2",
+    "category": "Special Features and Hazards",
+    "question": " Drive in the right lane where the markings are as shown. How will you proceed?",
+    "options": [
+      "change the lane in the left lane without obstructing the vehicle",
+      "regardless of vehicles behind and next to change lane"
+    ],
+    "answer": "change the lane in the left lane without obstructing the vehicle"
+  },
+  {
+    "test": "B2",
+    "category": "Special Features and Hazards",
+    "question": " You intend to turn left at the crossroads. What do you have to do?",
+    "options": [
+      "drive before vehicles coming from the opposite direction",
+      "miss vehicles coming straight from the opposite direction or turning right"
+    ],
+    "answer": "miss vehicles coming straight from the opposite direction or turning right"
+  },
+  {
+    "test": "B3",
+    "category": "Fundamental Issues",
+    "question": "What characterizes a road intended exclusively for motor vehicle traffic?",
+    "options": [
+      "safe traffic flow of vehicles at least 60 km per hour",
+      "movement of motor vehicles only",
+      "acceleration and deceleration lane"
+    ],
+    "answer": "movement of motor vehicles only"
+  },
+  {
+    "test": "B3",
+    "category": "Fundamental Issues",
+    "question": "Why is a rough pavement curtain more favorable than a smooth one?",
+    "options": [
+      "because the tires fit better on it",
+      "because the braking distance is shorter",
+      "because the shorter the response time of the driver"
+    ],
+    "answer": "because the braking distance is shorter"
+  },
+  {
+    "test": "B3",
+    "category": "Fundamental Issues",
+    "question": "What does the light bulb on the instrument panel with the symbol in the picture indicate?",
+    "options": [
+      "front fog light on",
+      "dipped beam on",
+      "rear fog light on"
+    ],
+    "answer": "rear fog light on"
+  },
+  {
+    "test": "B3",
+    "category": "Fundamental Issues",
+    "question": "What road features outside the settlement affect the increase in driving safety?",
+    "options": [
+      "sharp bends and downhills",
+      "greater width of the road",
+      "good transparency"
+    ],
+    "answer": "greater width of the road"
+  },
+  {
+    "test": "B3",
+    "category": "Fundamental Issues",
+    "question": "Drive on the road in the situation as in the picture. What cross marked across?",
+    "options": [
+      "bus stop",
+      "pedestrian island",
+      "marked pedestrian crossing"
+    ],
+    "answer": "marked pedestrian crossing"
+  },
+  {
+    "test": "B3",
+    "category": "Fundamental Issues",
+    "question": "hat is a traffic lane?",
+    "options": [
+      "a marked or unmarked part of the roadway the width of which is sufficient for the unimpeded movement of one row of motor vehicles in one direction",
+      "longitudinal part of the roadway intended for one-way traffic, with one or more traffic lanes"
+    ],
+    "answer": "a marked or unmarked part of the roadway the width of which is sufficient for the unimpeded movement of one row of motor vehicles in one direction"
+  },
+  {
+    "test": "B3",
+    "category": "Fundamental Issues",
+    "question": "How many pavement lanes does the road have in the situation as in the picture?",
+    "options": [
+      "one",
+      "two",
+      "three"
+    ],
+    "answer": "one"
+  }
+]
